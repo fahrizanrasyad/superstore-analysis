@@ -26,4 +26,6 @@ This project focuses on sales vs. profit of Giant Superstore located in US state
 This analysis offers valuable business insights into profitability imbalances, enabling stakeholders to make informed decisions and take strategic action moving forward.
 
 ## Interactive Visualizations
+
+https://public.tableau.com/views/SuperstoreSalesVs_Profit/Story2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
     
